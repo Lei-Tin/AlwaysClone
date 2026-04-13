@@ -85,7 +85,7 @@ project/assembly_name="$(ModName)"
 				"has_pck": true,
 				"has_dll": true,
 				"dependencies": [],
-				"affects_gameplay": false
+				"affects_gameplay": true
 				}
 			</ModManifestContent>
 		</PropertyGroup>

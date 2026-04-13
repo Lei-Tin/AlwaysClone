@@ -11,6 +11,14 @@ Always Clone is a Slay the Spire 2 mod that forces the Act 2 Ancient event to be
   - If Pael's Growth is not in the shown 3 options, option 1 is replaced with Pael's Growth.
 - Other options remain otherwise unchanged.
 
+## How to use
+
+Go to releases and download the latest release. Then, place the folder extracted into your game's directory's mods folder. 
+
+For example:
+
+`C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\mods`. 
+
 ## Build and install
 
 1. Configure local paths in `local.props`:
