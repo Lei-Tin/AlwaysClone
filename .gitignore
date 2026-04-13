@@ -1,0 +1,12 @@
+tools
+
+*.sln
+local.props
+obj
+godot
+
+.vs
+bin
+
+*.txt
+*.zip
