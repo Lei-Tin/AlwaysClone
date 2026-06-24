@@ -2,6 +2,12 @@
 
 Always Clone is a Slay the Spire 2 mod that forces the Act 2 Ancient event to be Pael and forces Pael's Growth to appear as option 1.
 
+![Always Clone mod image](./AlwaysClone.png)
+
+Current version: `1.0.1`
+
+Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=3751078610
+
 ## What this mod does
 
 - In Act 2 (Hive), the selected Ancient is forced to Pael.
